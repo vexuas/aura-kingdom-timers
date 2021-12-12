@@ -41,6 +41,8 @@
     ]
   },
   "devDependencies": {
-    "auto": "^10.32.5"
+    "auto": "^10.32.5",
+    "node-sass": "^7.0.0",
+    "sass-loader": "^12.4.0"
   }
 }
